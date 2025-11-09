@@ -1,82 +1,72 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="./banner.png" width="100%" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou Jefferson Paulo</h1>
-<p align="center">Quality Assurance | Web • Mobile • API</p>
+<p align="center">Quality Assurance | Web • Mobile • APIs</p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Profissional de **Qualidade de Software** com experiência em produtos Web e Mobile.
-Atuo com testes funcionais, integrados, regressão, exploratórios e APIs para empresas do setor financeiro e telecom.  
-Tenho forte atenção aos detalhes, pensamento analítico, comunicação clara e foco na resolução de problemas.
+Profissional de **Qualidade de Software** com experiência prática em produtos Web e Mobile.  
+Atuo com testes funcionais, integrados, regressão, exploratórios e APIs, com forte atenção aos detalhes, foco em qualidade e comportamento do usuário.
 
-- 🎓 Formação: **Análise e Desenvolvimento de Sistemas – UNIBRA (2025)**
-- 📚 Pós-graduação iniciando em **Fevereiro/2026**
-- 💼 Experiência em QA, desenvolvimento e análise de software
-- 🧪 Único QA da equipe atual, garantindo cobertura e rastreabilidade
-- 🔁 Metodologias ágeis (Scrum e Kanban)
+🎓 **Formação:** Análise e Desenvolvimento de Sistemas – UNIBRA (2025)  
+📚 **Pós-graduação iniciando em:** Fevereiro/2026  
 
----
+🎯 Objetivo: Atuar como Analista de Qualidade de Software em projetos Web, Mobile e APIs, aplicando testes funcionais, exploratórios, documentação e boas práticas de qualidade para entregar produtos estáveis, seguros e de alta performance. Busco integrar uma equipe ágil onde eu possa evoluir tecnicamente, aprender novas tecnologias, automatizar processos e colaborar para a melhoria contínua da qualidade e da experiência do usuário.
 
-## 🧪 Competências Técnicas
-
-**Testes Web & Mobile**
-✅ Funcionais  
-✅ Regressão  
-✅ Exploratório  
-✅ E2E  
-
-**Testes de API**
-✅ Postman  
-✅ Swagger  
-✅ Insomnia  
-✅ Execução automática com Newman  
-
-**Automação**
-✅ Cypress (estudos aplicados)  
-✅ Selenium / Robot Framework (iniciação)
-
-**Outros conhecimentos**
-✅ SQL  
-✅ Python  
-✅ Git & GitHub  
-✅ Jira / Trello  
-✅ Documentação técnica
 
 ---
 
-## 💼 Experiência Profissional
+## 🔧 Tecnologias e Ferramentas
 
-### ✅ **Dimensa Tecnologia – Quality Assurance (2023–2025)**
-- Testes funcionais, regressão e exploratórios em Web, API & Mobile  
-- Único QA da equipe: responsável pela qualidade ponta a ponta  
-- Identificação e acompanhamento de bugs com o time de desenvolvimento  
-- Criação de casos de teste, evidências, relatórios e rastreabilidade  
-- Validação de requisitos funcionais e técnicos antes do deploy
+✅ Testes funcionais, exploratórios e regressão  
+✅ APIs com Swagger / Postman / Insomnia  
+✅ Automação com Cypress | JavaScript  
+✅ JMeter para performance  
+✅ Git, GitHub, CI, Docker (básico)  
+✅ Jira, Trello, TestRail
 
-### ✅ **Accenture Brasil – Desenvolvedor de Software Jr (2018–2022)**
-- Execução de testes funcionais, regressivos e integrados  
-- Criação de cenários de teste com base em critérios de aceite  
-- Monitoramento de métricas e indicadores de qualidade  
-- Apoio à implementação de processos e boas práticas de QA  
-- Criação e manutenção de testes automatizados
+**Linguagens:**  
+✔ JavaScript | ✔ HTML/CSS | ✔ Node.js
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos Destaque
 
 ### ✅ **Software para Gestão de Vendas e Clientes**
-API RESTful com autenticação, cadastro de clientes, produtos, vendas e faturamento.  
-📌 Inclui testes funcionais, documentação QA, rastreabilidade, Swagger e cenários BDD.  
-🔗 Repositório: https://github.com/jeff-barbosa123/Software-para-Gest-o-de-Vendas-e-Clientes
+API RESTful com autenticação JWT, cadastro de clientes, produtos, registro de vendas e relatórios.  
+Inclui testes funcionais, documentação QA, rastreabilidade e cenários BDD.
+
+🔗 Repositório:  
+https://github.com/jeff-barbosa123/Software-para-Gest-o-de-Vendas-e-Clientes
+
+---
 
 ### ✅ **ContaCerta API**
-Sistema para controle financeiro com registro de despesas, relatórios e validações.  
-📌 Testes exploratórios, planejamento, documentação e checklist de API.  
-🔗 Repositório: https://github.com/jeff-barbosa123/contacerta-api
+Sistema financeiro com registro de despesas, relatórios e validações.  
+Testes exploratórios, planejamento, documentação e checklist de API.
+
+🔗 Repositório:  
+https://github.com/jeff-barbosa123/contacerta-api
+
+---
+
+## 📄 Currículo
+
+Se quiser conhecer minha trajetória profissional com mais detalhes, você pode baixar meu currículo abaixo:
+
+👉 **[Baixar Currículo (PDF)](./JEFFERSON%20PAULO%20DE%20AGUIAR%20BARBOSA.pdf)**
+
+---
+
+## 🧪 Certificações e Estudos
+
+✔ Participante da **Mentoria Júlio de Lima 2.0 – Testes de Software**  
+✔ Estudando automação com Cypress, QA de APIs e boas práticas  
+✔ Criando portfólio real com documentação, checklist, cenários e automação  
 
 ---
 
@@ -89,11 +79,16 @@ Sistema para controle financeiro com registro de despesas, relatórios e valida�
 
 ---
 
-## 🔗 Contato
+## 📬 Contato
 
-📌 **LinkedIn:** https://www.linkedin.com/in/jeffersonpaulo-/  
-📌 **E-mail:** jefferson.p.barbosa23@gmail.com  
-📌 **Local:** Recife – PE  
-📌 **PCD – CID-10 G81.1**, sem limitação para atividades profissionais
+📍 Olinda – PE, Brasil  
+📧 E-mail: **jeffersonpaulobarbo@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/jeffersonpaulo-/  
+🐙 GitHub: https://github.com/jeff-barbosa123
 
 ---
+
+<p align="center">
+  Obrigado pela visita!  
+  Se quiser bater um papo sobre QA, tecnologia ou projetos, estou à disposição 👋
+</p>
