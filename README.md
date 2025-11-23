@@ -2,7 +2,7 @@
   <img src="./banner.png?v=2" width="100%" />
 </p>
 
-<h1 align="center">👋 Olá! Eu sou Jefferson Paulo</h1>
+<h1 align="center"> Olá! Eu sou Jefferson Paulo</h1>
 <p align="center">Garantia de Qualidade | Web • Mobile • APIs</p>
 
 ---
