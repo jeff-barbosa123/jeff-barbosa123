@@ -308,8 +308,9 @@ Repositório: https://github.com/jeff-barbosa123/contacerta-api
 
 ## 📊 Estatísticas GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeff-barbosa123&show_icons=true&theme=midnight-purple"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-barbosa123&layout=compact&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeff-barbosa123&show_icons=true&theme=midnight-purple" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-barbosa123&layout=compact&theme=midnight-purple" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=jeff-barbosa123&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D" />
 </p>
 
 ## 📫 Contato
@@ -319,5 +320,6 @@ LinkedIn: https://www.linkedin.com/in/jeffersonpaulo-/
 GitHub: https://github.com/jeff-barbosa123
 
 <p align="center">
-  Obrigado pela visita! Se quiser conversar sobre QA, tecnologia ou projetos, estou à disposição. 🤝
+  Obrigado por visitar meu perfil! 😊<br>
+  Se quiser conversar sobre QA, automação ou projetos, estou sempre disponível.
 </p>
