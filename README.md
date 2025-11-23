@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="./banner.png" width="100%" />
+  <img src="./banner.png?v=2" width="100%" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou Jefferson Paulo</h1>
