@@ -2,8 +2,8 @@
   <img src="./banner.png?v=2" width="100%" />
 </p>
 
-<h1 align="center"> Olá! Eu sou Jefferson Paulo</h1>
-<p align="center">Garantia de Qualidade | Web • Mobile • APIs</p>
+<h1 align="center">👋 Olá! Eu sou Jefferson Paulo</h1>
+<p align="center">Quality Assurance Engineer • Testes Web, Mobile & APIs • Automação & Estratégia</p>
 
 ---
 
@@ -21,6 +21,13 @@
 - [Portfólio Acessibilidade QA](#-portfólio-pessoal-de-qa-em-acessibilidade)
 - [Outros projetos](#-outros-projetos-em-qa)
 - [Contato](#-contato)
+
+### Links diretos dos projetos citados
+- [Gestão de Vendas e Clientes (API)](https://github.com/jeff-barbosa123/gestao-vendas-clientes-api)
+- [Portfólio Akross](https://github.com/jeff-barbosa123/portfolio-qa-akross)
+- [Portfólio Acessibilidade QA](https://github.com/jeff-barbosa123/portfolio-acessibilidade-qa)
+- [Software para Gestão (versão antiga)](https://github.com/jeff-barbosa123/Software-para-Gest-o-de-Vendas-e-Clientes)
+- [ContaCerta API](https://github.com/jeff-barbosa123/contacerta-api)
 
 ## 🤖 Sobre mim
 Profissional de **Qualidade de Software** com experiência em produtos Web e Mobile. Atuo do planejamento ao reporte, cobrindo testes funcionais, integrados, regressão, exploratórios e APIs. Foco em software confiável, seguro e com excelente experiência para o usuário.
